@@ -1,5 +1,5 @@
 **📅 Real-Time Time and Date Widget**  
-
+----
 🚀 A simple yet visually stunning **Time and Date Widget** built with HTML, CSS, and JavaScript! This project dynamically updates the time and date every second, blending functionality with a modern neon-inspired design.  
 
 ---
